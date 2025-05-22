@@ -1,4 +1,4 @@
-# 📈 Applied Data Analytics Project — Stock Price Forecasting
+# 📈 Stock Price Forecasting
 
 **Final Project — DBAS3090: Applied Data Analytics**  
 **Institution**: Nova Scotia Community College (NSCC)  
