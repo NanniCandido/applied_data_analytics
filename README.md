@@ -71,5 +71,6 @@ In a separate project for the **Intro to Machine Learning** course, I reused thi
 
 ---
 
-
+## Acknowledgments
+Special thanks to **George Campanis** for guidance throughout the course.
 
