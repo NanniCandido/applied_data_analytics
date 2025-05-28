@@ -65,6 +65,42 @@ The final Power BI dashboard displays:
 
 ---
 
+## 📊 Dashboard Overview
+
+<img src="images/Desc_stats.png" alt="Descriptive Statistics" width="600"/>
+<br><br>
+<img src="images/prediction_overview.png" alt="Prediction Overview" width="600"/>
+<br><br>
+<img src="images/Perfom_Events.png" alt="Performance Events" width="600"/>
+<br><br>
+<img src="images/profitability.png" alt="Companies Profitability" width="600"/>
+<br><br>
+<img src="images/GOOGLE_CORR.png" alt="Google Correlation" width="600"/>
+<br><br>
+<img src="images/GOOGLE_Volatil.png" alt="Google Volatility" width="600"/>
+<br><br>
+<img src="images/GOOGLE_candle.png" alt="Google Candlestick" width="600"/>
+<br><br>
+<img src="images/Consumer Cyclical.png" alt="Consumer Cyclical Comparison" width="600"/>
+<br><br>
+<img src="images/Communic_services.png" alt="Communication Service Comparison" width="600"/>
+<br><br>
+
+---
+
+## 📊 Importing Machine Learning Model into Power BI
+
+<img src="images/Import_Model_to_PowerBI_1.png" alt="Get Data" width="600"/>
+<br><br>
+<img src="images/Import_Model_to_PowerBI_2.png" alt="Copy and Paste the R Script" width="600"/>
+<br><br>
+<img src="images/Import_Model_to_PowerBI_3.png" alt="Choose the dataframe" width="600"/>
+<br><br>
+<img src="images/Import_Model_to_PowerBI_4.png" alt="ML Model imported with success" width="600"/>
+<br><br>
+
+---
+
 ## 🧠 Related Work
 
 In a separate project for the **Intro to Machine Learning** course, I reused this data model to train a **Neural Network** using **RStudio**, **R**, **Python**, **TensorFlow**, and **Keras**, forecasting **Microsoft's** stock price.
