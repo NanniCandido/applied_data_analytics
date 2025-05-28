@@ -1,9 +1,11 @@
-# 📈 Applied Data Analytics Project — Stock Price Forecasting
+# 📈 Stock Price Forecasting
 
-**Course**: Applied Data Analytics  
+**Final Project — DBAS3090: Applied Data Analytics**  
 **Institution**: Nova Scotia Community College (NSCC)  
-**Date**: March – April 2025  
-**Author**: Elaine da Silva  
+**Program**: IT – Data Analytics  
+**Course**: Applied Data Analytics  
+**Instructor**: George Campanis  
+**Term**: Winter 2025  
 
 ---
 
@@ -69,5 +71,6 @@ In a separate project for the **Intro to Machine Learning** course, I reused thi
 
 ---
 
-
+## Acknowledgments
+Special thanks to **George Campanis** for guidance throughout the course.
 
