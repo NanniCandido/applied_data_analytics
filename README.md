@@ -60,6 +60,7 @@ The final Power BI dashboard displays:
 - Model performance metrics
 - Comparative stock analysis
 - Economic indicators impact
+- Profitability for data normalization
 
 > A screenshot of the dashboard can be found in the `images/` folder. *(Add one if available.)*
 
